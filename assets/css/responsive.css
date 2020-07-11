@@ -1,0 +1,217 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+ button {
+	right: 182px;
+	top: 101px;
+	padding: 3px 10px;
+}
+
+
+
+
+
+
+	}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ .slider-content h1 {
+	font-size: 40px;
+}
+.course-img img {
+	width: 431px;
+}
+.single-news {
+	margin-bottom: 30px;
+}
+button {
+	right: 62px;
+}
+.right p span {
+	padding-left: 8px;
+	font-size: 18px;
+}
+.right p span {
+	padding-left: 11px;
+}
+.course-img img {
+	width: 450px;
+}
+.single-author {
+	margin-bottom: 30px;
+}
+.right p span {
+	padding-left: 7px;
+	font-size: 17px;
+}
+.single-test p {
+	font-size: 18px;
+	padding: 10px 50px;
+}
+.single-test i {
+	position: absolute;
+	left: 30px;
+	font-size: 17px;
+}
+
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+ .slider-content h1 {
+	font-size: 21px;
+}
+.section-title h1 {
+	font-size: 20px;
+	margin-bottom: 8px;
+}
+.section-title p {
+	font-size: 16px;
+	margin: 20px 0;
+}
+.course-btn a {
+	font-size: 16px;
+}
+.register-title h1 {
+	font-size: 20px;
+}
+.register-title p {
+	font-size: 20px;
+}
+.section-title h1 {
+	font-size: 20px;
+}
+.single-test p {
+	font-size: 15px;
+	padding: 0;
+}
+.single-test i {
+	left: -3px;
+}
+.testimonial-area .owl-item img {
+	width: 25%;
+}
+.authior img {
+	margin-left: 38%;
+}
+.course-btn a {
+	font-size: 17px;
+	padding: 9px 29px;
+}
+.text1 h4 {
+	font-size: 20px;
+}
+.text1 p {
+	font-size: 16px;
+}
+.page-text h4 {
+	font-size: 20px;
+}
+.page-text p {
+	font-size: 16px;
+}
+.single-course {
+	margin-bottom: 20px;
+}
+.single-test p {
+	font-size: 18px;
+	padding: 0;
+}
+.right {
+	margin-top: 0;
+}
+.course-text h4 {
+	font-size: 17px;
+}
+.author-content h2 {
+	font-size: 18px;
+}
+.single-author {
+	margin-bottom: 30px;
+}
+.news-content h2 {
+	font-size: 16px;
+}
+.contact-left h4 {
+	font-size: 20px;
+}
+.contact-left p {
+	font-size: 16px;
+}
+.contact-form input {
+	font-size: 15px;
+}
+.contact-form input[type="submit"] {
+	font-size: 14px;
+	width: 39%;
+}
+.office h4 {
+	font-size: 16px;
+}
+.office span {
+	font-size: 15px;
+}
+.contact-time h4 {
+	font-size: 18px;
+}
+.contact-time ul li {
+	font-size: 14px;
+}
+.register-form input[type="submit"] {
+	width: 74%;
+	font-size: 14px;
+}
+.register-form input {
+	width: 100%;
+	font-size: 14px;
+}
+
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	.register-form input {
+	width: 100%;
+	font-size: 13px;
+}
+.news-content h2 {
+	font-size: 16px;;
+}
+.course-text h4 {
+	font-size: 15px;
+}
+.text1 h4 {
+	font-size: 15px;
+}
+.page-text h4 {
+	font-size: 18px;
+}
+.single-course {
+	margin-bottom: 30px;
+}
+.text1 p {
+	font-size: 15px;
+	color: #888;
+}
+.slider1-content h1 {
+	font-size: 24px;
+}
+.section-title h1 {
+	font-size: 25px;
+}
+.right {
+	margin-top: 0;
+}
+.text1 h4 {
+	font-size: 17px;
+}
+
+
+
+
+
+
+}
